@@ -34,5 +34,29 @@ https://drive.google.com/file/d/1wuArFTJinOlVx44ACZBJzjytomwkQYLo/view?usp=shari
 1.	If you select Yes, the screen will switch to the corresponding 360° panorama that matches your current location.
 2.	If you select No, nothing will happen; the dialog will simply close.
 
+# Appendix: Brief Usage Guide and QR Code
+<img width="346" height="346" alt="image" src="https://github.com/user-attachments/assets/86577968-e9f8-4919-8621-f85fd0a8b3a4" />
+
+Navigation App Operation Flow – Destinations:
+1.	Department of Radiation Oncology
+2.	Department of Thoracic Surgery
+3.	First select a starting point. After entering, take a moment to get familiar with the interface.
+4.	All function buttons are on the right side of the screen:
+a. At the top-right, you can select a destination. After tapping, guidance arrows will appear.
+b. The mini-map shows your current position and can be zoomed in or out.
+c. You can enable auto-rotation, or manually rotate the view by touch (similar to Google Maps).
+5.	Tap the flashing arrow on the screen to move forward.
+6.	Compare the real environment with the 360° images in the app, and proceed step by step to the destination.
+7.	After arriving at the destination, you may return to the gathering point, or visit the other destination first and then come back.
+
+
 # App Video and File Link
 https://drive.google.com/drive/folders/1zI-znisQ_m3ihVBspjhVPeO6ItsEQe1N
+
+# Ethical Approval
+The questionnaire and data collection procedures of this study were reviewed and approved by the Institutional Review Board (IRB) of the Ditmanson Medical Foundation Chia-Yi Christian Hospital. The approval number is IRB2025043. All participants were informed of the purpose of the study, and their participation was entirely voluntary and anonymous.
+# Acknowledgment
+This research was supported by the Ditmanson Medical Foundation Chia-Yi Christian Hospital–National Chung Cheng University Joint Research Program (Project No. CYCH-CCU-2024-03). The authors would like to express their sincere gratitude to both institutions—Ditmanson Medical Foundation of Chia-Yi Christian Hospital and National Chung Cheng University for their generous funding and collaborative support. Thanks also extend to the Advanced Institute of Manufacturing with High-tech Innovations, National Chung Cheng University, Taiwan.
+
+
+
