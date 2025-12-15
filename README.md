@@ -6,13 +6,15 @@ This project enabled a VR360 and Wi-Fi–based indoor navigation system designed
 # User Guide
 I. Installation and Launch
 1.	Installation
+   
 •	Open the cloud link:
 https://drive.google.com/file/d/1yD1fi8RSy-B1Le8Jza2zZWqXKcRNNCp-/view?usp=sharing
 •	Download the entire compressed file.
  
 # Launch the App
 
-open the CYCH Smart navi.exe
+Open the CYCH Smart navi.exe
+Link :https://drive.google.com/drive/folders/1zI-znisQ_m3ihVBspjhVPeO6ItsEQe1N?usp=sharing
 
 Android APK Installation
 
