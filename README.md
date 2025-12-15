@@ -1,4 +1,4 @@
-# Hospital-Navigation-Virtual-Reality-Based-Indoor-Positioning-System
+# Enhancing Hospital Navigation: A Virtual Reality-Based Indoor Positioning  System
 This project enabled a VR360 and Wi-Fi–based indoor navigation system designed to enhance patient orientation in smart hospitals. Deployed at Chiayi Christian Hospital, the system supports intuitive clinic wayfinding and immersive pre-visit familiarization. Its acceptance and effectiveness were evaluated using a Hybrid TAM framework with Bayesian analysis, demonstrating high user satisfaction, strong educational value, and promising scalability for wider implementation. A complete overview of the system and workflow is presented in the schematic diagram.
 ![Hospital 2](https://github.com/user-attachments/assets/d577a7aa-45bf-43ae-9046-8e7ef2e4bb30)
 
